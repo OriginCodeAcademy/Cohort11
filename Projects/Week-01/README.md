@@ -105,11 +105,11 @@ Make sure you have signed up for all the necessary accounts and installed the ne
 
 #### Atom Package Recommends
 
-2. HTML/CSS/JS Prettify - this package can be installed using package control. It will properly indent your code and can be set to fire whenever you save your code.
+2. [Atom-Beautify](https://atom.io/packages/atom-beautify) - Use Atom's Package Installer to search for and install this package which will help you to properly indent your code.
 
-3. Emmett - HTML keyboard shortcuts - install using package control
+3. [Emmett](https://atom.io/packages/emmet) - HTML keyboard shortcuts - Use Atom's Package Installer to search for and install this package which provides handy keyboard shortcuts.
 
-4. Popular Themes - Material, Brogrammer
+4. Popular Themes - Material, Brogrammer - pick one that suits your brand.
 
 
 #### Make sure you are invited to:
