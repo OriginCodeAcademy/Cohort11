@@ -19,7 +19,7 @@ First things first, you need to install some command line tools to initialize, d
 
 Open up a terminal (iTerm on OSX, Command Prompt on Windows), and type `npm install -g oca-cli` followed by the return key.
 
-Next, type `oca-cli -V` (that's a capital V). `-V` is a common flag used by most CLI tools to print out the current version. If you see a version number in the format `X.X.X`, you're good to continue! If you don't see a version number, ask a peer to help you fix the problem.
+Next, type `oca-cli -V` (that's a capital V). `-V` is a common flag used by most CLI tools to print out the current version. If you see a version number in the format `X.X.X`, you're good to continue! If you don't see a version number, ask your neighbor or your instructor for help.
 
 ### Create the project
 
