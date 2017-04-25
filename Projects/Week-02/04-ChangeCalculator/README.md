@@ -18,6 +18,20 @@ This should give you a visual idea of what is required. Since it is just a proto
 * Add files: index.html, index.js, styles.css
 
 **3. Write the application**
+* Include a CDN for jQuery in your index.html so that you can leverage the library in your code.
+* Add the 
+
+```js
+$( document ).ready() {
+
+	// your code goes here!
+
+});
+
+```
+
+ statement in your index.js file and make sure all of your statements are within this block.
+* Use jQuery to select and modify elements on the DOM as needed
 * Hint: the modulo operator might come in handy for this assignment
 
 **4. Extra Credit**
@@ -28,6 +42,6 @@ This should give you a visual idea of what is required. Since it is just a proto
 ## Turn in instructions
 
 * Push your changes to GitHub 
-* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-SC-WinterCohort/issues/new?title=ChangeCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20was%20your%20biggest%20success%20in%20this%20application%3F%0A%0A3.%20What%20extras%20did%20you%20add%20to%20this%20project%3F%0A%0A4.%20What%20was%20the%20hardest%20part%20for%20you%20with%20this%20project%3F)
+* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/Cohort11/issues/new?title=ChangeCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20was%20your%20biggest%20success%20in%20this%20application%3F%0A%0A3.%20What%20extras%20did%20you%20add%20to%20this%20project%3F%0A%0A4.%20What%20was%20the%20hardest%20part%20for%20you%20with%20this%20project%3F)
 	* Include a link to your repository in the description
 	* Answer the questions filled out for you in the description
