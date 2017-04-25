@@ -19,7 +19,7 @@ This should give you a visual idea of what is required. Since it is just a proto
 
 **3. Write the application**
 * Include a CDN for jQuery in your index.html so that you can leverage the library in your code.
-* Add the 
+* Add this: 
 
 ```js
 $( document ).ready() {
@@ -31,7 +31,7 @@ $( document ).ready() {
 ```
 
  statement in your index.js file and make sure all of your statements are within this block.
-* Use jQuery to select and modify elements on the DOM as needed
+* Use jQuery to select and modify elements on the DOM as needed and also to program the onclick event of your button.
 * Hint: the modulo operator might come in handy for this assignment
 
 **4. Extra Credit**
