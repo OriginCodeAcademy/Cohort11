@@ -27,7 +27,6 @@ The San Diego real estate market is an excellent place to invest your extra cash
 8. Angular bootstrapping - add the following to your index.html file:
   - an ng-app directive in the `<html>` tag.
   - an ng-controller directive in the `<body>` tag.
-  - an ng-repeat directive to generate the rows of Top Spots data
 9. Write the following JavaScript in your `app.js` file:
   - Create an Angular module using Angular snippets and name your app, `app`.
   - Create an Angular controller named `MortgageController` using Angular snippets. Write the following JavaScript in your `app.js` file
