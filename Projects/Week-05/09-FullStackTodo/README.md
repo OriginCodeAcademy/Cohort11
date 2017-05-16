@@ -28,7 +28,7 @@ database)
 
 ## Extras
 - Must be able to Update Todo items (Changes must be saved to the database)
-- Must be able to Delete Todo items (Items must be deleted from the 
+- Must be able to Delete Todo items (Items must be deleted from the database) 
 
 ## Turn In Instructions
 * Push your changes to GitHub using `git push origin master`
