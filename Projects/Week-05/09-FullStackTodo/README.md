@@ -12,6 +12,7 @@ For your this project you are going to extend your Very Simple Todo App to store
 3. Setup your Git workflow.
   - Initialize an empty git repository in `FullStackTodo` by running `git init` in the command prompt.
   - Create a repository on GitHub called `FullStackTodo` and follow the instructions to add a remote origin.
+  - Clone the .gitignore  file posted with the README for this project and be sure to include it in your local project folder before you push anything to GitHub. 
 4. Create a new Visual Studio solution in this folder called `VSTDA`.
 5. Create an ASP.NET Web API 2 Project
 6. Create and add properties to a class called `Todo.cs` in your Models folder.
